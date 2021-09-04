@@ -6,6 +6,7 @@ System.out.println(calcularFatorial(5));
 }
 public static int calcularFatorial(int n)
 {
+//Incluindo um teste
 int resultado = 1;
 for (int i = 2; i <=n; i ++)
 resultado *= i;
